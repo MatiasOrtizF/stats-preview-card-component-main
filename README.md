@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mat1asortiz/stats-preview-card-component-main.git](https://github.com/mat1asortiz/stats-preview-card-component-main.git)
-- Live Site URL: [https://mat1asortiz.github.io/stats-preview-card-component-main/](https://mat1asortiz.github.io/stats-preview-card-component-main/)
+- Solution URL: [https://github.com/mat1asortiz/stats-preview-card-component-main.](https://github.com/mat1asortiz/stats-preview-card-component-main)
+- Live Site URL: [https://mat1asortiz.github.io/stats-preview-card-component-main](https://mat1asortiz.github.io/stats-preview-card-component-main)
 
 ## My process
 
